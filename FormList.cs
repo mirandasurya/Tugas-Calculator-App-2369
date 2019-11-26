@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace TugasCalculatorApp
 {
+
+    // it was made by miranda surya 18.11.2369
     public partial class FormList : Form
     {
         public FormList()
@@ -51,7 +53,7 @@ namespace TugasCalculatorApp
 
             frm.ShowDialog();
 
-            // created by vicka rizky sunflora 18.11.2342
+            
         }
     }
 }
