@@ -51,7 +51,7 @@ namespace TugasCalculatorApp
 
             frm.ShowDialog();
 
-            // Created by Ratutria Aros Purnama (18.11.2336)
+            // created by vicka rizky sunflora 18.11.2342
         }
     }
 }
